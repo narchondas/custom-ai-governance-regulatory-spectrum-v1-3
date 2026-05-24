@@ -6,6 +6,8 @@ Unlike the replication artefact, which reproduces a fixed thesis corpus, this cu
 
 Researchers can upload AI-related legal, policy, strategic, institutional or organisational PDF documents and analyse where they are positioned on a two-dimensional regulatory spectrum.
 
+<img width="1448" height="1086" alt="image" src="https://github.com/user-attachments/assets/7db04f29-2c50-4aeb-8107-2807064cae0c" />
+
 ## What the notebook does
 
 The notebook maps documents across two axes:
@@ -71,3 +73,6 @@ The artefact is dictionary-based and should be interpreted as a diagnostic mappi
 Results depend on the quality of PDF extraction, the metadata supplied by the researcher, the selected document groups, the assigned legal-force multipliers, the predefined vocabularies, and the length and structure of the uploaded documents.
 
 Researchers should inspect the vocabulary audit table before drawing substantive conclusions.
+
+<img width="1448" height="1086" alt="image" src="https://github.com/user-attachments/assets/a4c1efcc-fea2-4200-a3c7-49bb59228097" />
+
